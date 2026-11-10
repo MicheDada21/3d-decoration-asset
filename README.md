@@ -2,7 +2,7 @@
 
 Crea mascotte che seguono il cursore, oggetti a 360° guidati dallo scroll, clip in loop e modelli GLB, con la generazione in cloud su Runware solo dopo l'approvazione del costo.
 
-Fa parte della [Prompt Library di CH Labs](https://www.cryptohelvetia.com/ch-labs/prompt-library), dove la pagina di riferimento è [Build 3D and animated web assets](https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/3d-decoration-asset). Il repo contiene una copia della skill, rigenerata a ogni aggiornamento della libreria.
+Fa parte della [Prompt Library di CH Labs](https://www.cryptohelvetia.com/ch-labs/prompt-library), dove la pagina di riferimento è [3D decoration asset](https://www.cryptohelvetia.com/ch-labs/prompt-library/skills/3d-decoration-asset). Il repo contiene una copia della skill, rigenerata a ogni aggiornamento della libreria.
 
 ## Installare
 
