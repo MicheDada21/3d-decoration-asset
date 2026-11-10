@@ -1,6 +1,6 @@
 ---
 name: 3d-decoration-asset
-description: "3D and animated web assets made from a reference image or a prompt, with cloud generation through Runware by default. Use when a site needs a mascot that follows the cursor, a 360° or scroll-scrubbed object sequence, a looping clip or a GLB model built, generated or integrated."
+description: "Builds 3D and animated web assets from a reference image or a prompt, with paid cloud generation only after cost approval. Use when a site needs a cursor-following mascot, a scroll sequence or a GLB model."
 ---
 
 # 3D decoration assets
