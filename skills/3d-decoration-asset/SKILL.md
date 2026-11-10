@@ -3,7 +3,7 @@ name: 3d-decoration-asset
 description: "Builds 3D and animated web assets from a reference image or a prompt, with paid cloud generation only after cost approval. Use when a site needs a cursor-following mascot, a scroll sequence or a GLB model."
 ---
 
-# 3D decoration assets
+# 3D decoration asset
 
 The goal is an asset that keeps the reference's identity, runs at the lightest rendering tier that delivers the behavior, and is proven in a real browser. Generation runs in the cloud through a provider adapter, so the machine needs no model weights, GPU stack or 3D suite.
 
